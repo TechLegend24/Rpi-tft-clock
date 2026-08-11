@@ -6,10 +6,9 @@ I bought a cheap GPIO TFT screen, not knowing what a pain it would be. This smal
 
 the background.jpg must be in the same folder as the program
 
-git clone https://github.com/goodtft/LCD-show.git
-chmod -R 755 LCD-show
-cd LCD-show/
-sudo ./LCD35-show
+```git clone https://github.com/goodtft/LCD-show.git```
+```chmod -R 755 LCD-show```
+```cd LCD-show/```
+```sudo ./LCD35-show```
 
-^^^^^^^^^^^^^^^^^
 the driver I used for the tft screen
