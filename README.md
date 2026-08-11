@@ -1,4 +1,4 @@
-#RPI-tft-clock
+# RPI-tft-clock
 
 Raspberry Pi Clock
 
