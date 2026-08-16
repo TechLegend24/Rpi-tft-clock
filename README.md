@@ -12,3 +12,8 @@ the background.jpg must be in the same folder as the program
 ```sudo ./LCD35-show```
 
 the driver I used for the tft screen
+
+I built a stand for it with lego
+
+<img width="1024" height="768" alt="EE441B53-1C4C-4F8F-BF9A-BC84E8F5E5CC_1_105_c" src="https://github.com/user-attachments/assets/5ad418c5-f410-44d1-83d0-fe4b79c341d4" />
+
